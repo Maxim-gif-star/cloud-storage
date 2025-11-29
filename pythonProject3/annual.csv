@@ -1,0 +1,40 @@
+Year,level_n,code,Industries_name,Units,Variable_code,Variable_name,Variable_category,Value,Availability_of_license
+2024,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,979594,True
+2024,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,838626,True
+2024,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,112188,True
+2024,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,28781,False
+2024,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,856960,False
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,71493,True
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,8540,False
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,32896,False
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,157616,True
+2023,Level 1,99999,All industries,Dollars (millions),H13,Redundancy and severance,Financial performance,323,False
+2022,Level 1,99999,All industries,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,1548,False
+2022,Level 1,99999,All industries,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,568850,False
+2022,Level 1,99999,All industries,Dollars (millions),H20,Non-operating expenses,Financial performance,16016,False
+2022,Level 1,99999,All industries,Dollars (millions),H21,Opening stocks,Financial performance,86685,True
+2022,Level 1,99999,All industries,Dollars (millions),H22,Closing stocks,Financial performance,84990,False
+2021,Level 1,99999,All industries,Dollars (millions),H23,Surplus before income tax,Financial performance,120939,False
+2021,Level 1,99999,All industries,Dollars (millions),H24,Total assets,Financial position,2931807,False
+2021,Level 1,99999,All industries,Dollars (millions),H25,Current assets,Financial position,911135,False
+2021,Level 1,99999,All industries,Dollars (millions),H26,Fixed tangible assets,Financial position,719959,True
+2021,Level 1,99999,All industries,Dollars (millions),H29,Other assets,Financial position,1300713,False
+2020,Level 1,99999,All industries,Dollars (millions),H30,Total equity and liabilities,Financial position,2931807,False
+2020,Level 1,99999,All industries,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,1011581,False
+2020,Level 1,99999,All industries,Dollars (millions),H32,Current liabilities,Financial position,1118376,False
+2020,Level 1,99999,All industries,Dollars (millions),H33,Other liabilities,Financial position,801850,True
+2020,Level 1,99999,All industries,Dollars,H34,Total income per employee count,Financial ratios,483100,False
+2019,Level 1,99999,All industries,Dollars,H35,Surplus per employee count,Financial ratios,59600,False
+2019,Level 1,99999,All industries,Percentage,H36,Current ratio,Financial ratios,81,True
+2019,Level 1,99999,All industries,Percentage,H37,Quick ratio,Financial ratios,74,False
+2019,Level 1,99999,All industries,Percentage,H39,Return on equity,Financial ratios,12,True
+2019,Level 1,99999,All industries,Percentage,H40,Return on total assets,Financial ratios,4,False
+2018,Level 1,99999,All industries,Percentage,H41,Liabilities structure,Financial ratios,35,True
+2018,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H01,Total income,Financial performance,54775,True
+2018,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H04,Sales of goods and services,Financial performance,50175,False
+2018,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,1545,False
+2018,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,37,False
+2017,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H07,Non-operating income,Financial performance,3018,True
+2017,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H08,Total expenditure,Financial performance,48903,True
+2017,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H09,Interest and donations,Financial performance,4708,True
+2017,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H10,Indirect taxes,Financial performance,549,True
