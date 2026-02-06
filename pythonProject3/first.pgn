@@ -1,0 +1,9 @@
+[Event "Шахматная партия"]
+[Site "Python Chess"]
+[Date "2025.12.19"]
+[Round "1"]
+[White "Игрок 1"]
+[Black "Игрок 2"]
+[Result "*"]
+
+1. e4 d5 2. g3 Kd7 *
